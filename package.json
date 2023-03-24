@@ -1,0 +1,24 @@
+{
+  "name": "talana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "contrerasderly"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "talana",
+    "javascript"
+  ],
+  "author": "derly contreras",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}
