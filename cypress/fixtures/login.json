@@ -1,0 +1,5 @@
+{
+    "username": "#loginusername",
+    "password": "#loginpassword",
+    "buttonLogin" : "#logInModal > .modal-dialog > .modal-content > .modal-footer > .btn-primary"
+}
