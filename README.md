@@ -4,12 +4,18 @@
 Se usó el editor de texto Visual Studio Code con cypres y javascript
 Se adjunta la carpeta del proyecto comprimida y se proporciona link público del proyecto en GitHub
 
-# Ejecutar el proyecto
-Abrir el proyecto y en consola:
+
+*Ejecutar el proyecto
+
+Abrir el proyecto con Visual Studio Code y en el terminal ejecutar:
+
 npm install cypress --save-dev (instalar cypress al proyecto)
+
 npx cypress open (abre el navegador de Cypress)
 
-# Criterios de aceptacion
+
+*Criterios de aceptacion
+
 Dado que el cliente quiere añadir un producto a su carro de compra
 cuando selecciona un producto y selecciona la opción agregar
 y se cuente con acceso a internet
