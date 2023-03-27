@@ -1,6 +1,6 @@
 # talana-shoppingcart
 
-# Ejecutar el set de pruebas
+*Ejecutar el set de pruebas
 Se usó el editor de texto Visual Studio Code con cypres y javascript
 Se adjunta la carpeta del proyecto comprimida y se proporciona link público del proyecto en GitHub
 
